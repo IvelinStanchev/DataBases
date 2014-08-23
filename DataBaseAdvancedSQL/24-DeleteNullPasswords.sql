@@ -1,0 +1,8 @@
+USE TelerikAcademy
+
+BEGIN TRAN
+
+DELETE FROM Users
+WHERE UserPassword IS NULL
+
+ROLLBACK TRAN

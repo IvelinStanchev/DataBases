@@ -1,0 +1,1 @@
+Integrity constraints ensure data integrity in the database tables. They enforce data rules which cannot be violated.

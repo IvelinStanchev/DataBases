@@ -1,0 +1,3 @@
+USE TelerikAcademy
+
+SELECT CONVERT(VARCHAR(25), GETDATE(), 131) AS [Date]

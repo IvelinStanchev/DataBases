@@ -1,0 +1,10 @@
+Type of database models are:
+-Hierarchical Model
+-Network Model
+-Relational Model
+-Object/Relational Model
+-Object-Oriented Model
+-Semistructured Model
+-Associative Model
+-Entity-Attribute-Value (EAV) data model
+-Context Model

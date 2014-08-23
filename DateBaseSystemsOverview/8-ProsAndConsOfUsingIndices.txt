@@ -1,0 +1,8 @@
+They might increase the speed of searching of values in a certain column or group of columns 
+(usually implemented as B-trees)
+
+If indexes are used, writing to table (for example inserting rows) is
+slower, because in addition to just writing the data, MySQL needs to
+handle the index file also. This is an issue usually only if you need
+very fast inserts or you need to insert thousands of rows at the same
+time and fast.

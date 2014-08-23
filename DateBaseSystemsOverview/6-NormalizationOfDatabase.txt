@@ -1,0 +1,12 @@
+Certain database schema is normalized when there is no repeating data in it.
+
+The advantages are:
+-The database does not have redundant data, it is smaller in size so less money needs to be spent on storage
+-Because there is less data to search through, it is much faster to run a query on the data
+-Because there is no data duplication there is better data integrity and less risk of mistakes
+-Because there is no data duplication there is less chance of storing two or more different copies of the data
+-Once change can be made which can instantly be cascaded across any related records.
+
+
+
+

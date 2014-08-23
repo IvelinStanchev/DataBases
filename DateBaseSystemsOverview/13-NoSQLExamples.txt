@@ -1,0 +1,9 @@
+Redis
+-Ultra-fast in-memory data structures server
+-There are no access controls; it's not possible to configure a Redis server, a database that it's serving, nor any sort of key glob/pattern as being read-only to a subset of your clients (much less establish that certain key glob/patterns are required to be lists and/or that certain clients or IP address / netmask patterns are only allowed, for example, to do *POP operations on certain keys or key patterns).
+MongoDB
+-Mature and powerful JSON-document database
+-MongoDB has the natural tendency to use up more memory because it has to store the key names within each document. This is due to the fact that the data structure is not necessarily consistent amongst the data objects.
+CouchDB
+-JSON-based document database with REST API
+-It doesn't support transactions
