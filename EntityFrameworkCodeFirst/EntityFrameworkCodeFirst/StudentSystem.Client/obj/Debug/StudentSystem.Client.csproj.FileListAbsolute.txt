@@ -1,0 +1,1 @@
+D:\Telerik\Homework\DataBases\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\StudentSystem.Client\bin\Debug\StudentSystem.Client.exe.config
