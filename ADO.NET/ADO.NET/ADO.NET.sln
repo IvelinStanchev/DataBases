@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-NortwindNumberOfRowsInCategoryTable", "1-NortwindNumberOfRowsInCategoryTable\1-NortwindNumberOfRowsInCategoryTable.csproj", "{B88EEE6B-F95F-46CE-B400-AA6CC513BE33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-NameAndDescriptionFromCategoriesTable", "2-NameAndDescriptionFromCategoriesTable\2-NameAndDescriptionFromCategoriesTable.csproj", "{4E5E996C-2E1B-41BB-9733-0A9614B66119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-AllCategoriesWithItsProducts", "3-AllCategoriesWithItsProducts\3-AllCategoriesWithItsProducts.csproj", "{5D25E3B2-F775-4823-B282-71CB1523742A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-AddANewProductWithParameterizedFunction", "4-AddANewProductWithParameterizedFunction\4-AddANewProductWithParameterizedFunction.csproj", "{B7913D1A-CAB6-40E0-AAD7-431900B31FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-RetrievesPicturesFormDatabaseAndSavesThem", "5-SavingImagesInTheFil\5-RetrievesPicturesFormDatabaseAndSavesThem.csproj", "{49B55E2E-038B-4576-BBEB-10B659466BD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.ReadExcelFile", "6.CreateExcelFile\6.ReadExcelFile.csproj", "{A1D9BB2C-1ED7-4AD5-A1C6-D038AF3C8828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.InsertToExcelTable", "7.InsertToExcelTable\7.InsertToExcelTable.csproj", "{153D7333-EA53-442F-8161-5E436DA03037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-ReadsStringFromConsoleAndGetsTheValueFromProducts", "8-ReadsStringFromConsoleAndGetsTheValueFromProducts\8-ReadsStringFromConsoleAndGetsTheValueFromProducts.csproj", "{F9D69215-0064-48C8-B29D-CC30C0DD7BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-WriteMethodsForWorkingWithMySQL", "9-WriteMethodsForWorkingWithMySQL\9-WriteMethodsForWorkingWithMySQL.csproj", "{C1A3D34B-DA29-476F-90EE-B51A6BC02823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-WriteMethodsForWorkingWithSQLite", "10-WriteMethodsForWorkingWithSQLite\10-WriteMethodsForWorkingWithSQLite.csproj", "{43925C0D-0146-47E2-902B-77395235A023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88EEE6B-F95F-46CE-B400-AA6CC513BE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88EEE6B-F95F-46CE-B400-AA6CC513BE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88EEE6B-F95F-46CE-B400-AA6CC513BE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88EEE6B-F95F-46CE-B400-AA6CC513BE33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E5E996C-2E1B-41BB-9733-0A9614B66119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5E996C-2E1B-41BB-9733-0A9614B66119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5E996C-2E1B-41BB-9733-0A9614B66119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5E996C-2E1B-41BB-9733-0A9614B66119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D25E3B2-F775-4823-B282-71CB1523742A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D25E3B2-F775-4823-B282-71CB1523742A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D25E3B2-F775-4823-B282-71CB1523742A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D25E3B2-F775-4823-B282-71CB1523742A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7913D1A-CAB6-40E0-AAD7-431900B31FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7913D1A-CAB6-40E0-AAD7-431900B31FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7913D1A-CAB6-40E0-AAD7-431900B31FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7913D1A-CAB6-40E0-AAD7-431900B31FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B55E2E-038B-4576-BBEB-10B659466BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B55E2E-038B-4576-BBEB-10B659466BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B55E2E-038B-4576-BBEB-10B659466BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B55E2E-038B-4576-BBEB-10B659466BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D9BB2C-1ED7-4AD5-A1C6-D038AF3C8828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D9BB2C-1ED7-4AD5-A1C6-D038AF3C8828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D9BB2C-1ED7-4AD5-A1C6-D038AF3C8828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D9BB2C-1ED7-4AD5-A1C6-D038AF3C8828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{153D7333-EA53-442F-8161-5E436DA03037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153D7333-EA53-442F-8161-5E436DA03037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153D7333-EA53-442F-8161-5E436DA03037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153D7333-EA53-442F-8161-5E436DA03037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D69215-0064-48C8-B29D-CC30C0DD7BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D69215-0064-48C8-B29D-CC30C0DD7BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D69215-0064-48C8-B29D-CC30C0DD7BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D69215-0064-48C8-B29D-CC30C0DD7BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A3D34B-DA29-476F-90EE-B51A6BC02823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A3D34B-DA29-476F-90EE-B51A6BC02823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A3D34B-DA29-476F-90EE-B51A6BC02823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A3D34B-DA29-476F-90EE-B51A6BC02823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43925C0D-0146-47E2-902B-77395235A023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43925C0D-0146-47E2-902B-77395235A023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43925C0D-0146-47E2-902B-77395235A023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43925C0D-0146-47E2-902B-77395235A023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
