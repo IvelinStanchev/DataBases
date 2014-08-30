@@ -1,0 +1,7 @@
+D:\Telerik\Homework\DataBases\ADO.NET\ADO.NET\9-WriteMethodsForWorkingWithMySQL\bin\Debug\9-WriteMethodsForWorkingWithMySQL.exe.config
+D:\Telerik\Homework\DataBases\ADO.NET\ADO.NET\9-WriteMethodsForWorkingWithMySQL\bin\Debug\9-WriteMethodsForWorkingWithMySQL.exe
+D:\Telerik\Homework\DataBases\ADO.NET\ADO.NET\9-WriteMethodsForWorkingWithMySQL\bin\Debug\9-WriteMethodsForWorkingWithMySQL.pdb
+D:\Telerik\Homework\DataBases\ADO.NET\ADO.NET\9-WriteMethodsForWorkingWithMySQL\bin\Debug\MySql.Data.dll
+D:\Telerik\Homework\DataBases\ADO.NET\ADO.NET\9-WriteMethodsForWorkingWithMySQL\obj\Debug\9-WriteMethodsForWorkingWithMySQL.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\DataBases\ADO.NET\ADO.NET\9-WriteMethodsForWorkingWithMySQL\obj\Debug\9-WriteMethodsForWorkingWithMySQL.exe
+D:\Telerik\Homework\DataBases\ADO.NET\ADO.NET\9-WriteMethodsForWorkingWithMySQL\obj\Debug\9-WriteMethodsForWorkingWithMySQL.pdb

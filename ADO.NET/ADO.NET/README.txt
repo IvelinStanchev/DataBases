@@ -1,0 +1,1 @@
+After opening the solution press Ctrl + F5 on some of the .cs files. After that it will generate the packages.

@@ -1,1 +1,2 @@
 D:\Telerik\Homework\DataBases\ADO.NET\ADO.NET\6.CreateExcelFile\bin\Debug\6.CreateExcelFile.exe.config
+D:\GitHub\DataBases\ADO.NET\6.CreateExcelFile\bin\Debug\6.CreateExcelFile.exe.config
