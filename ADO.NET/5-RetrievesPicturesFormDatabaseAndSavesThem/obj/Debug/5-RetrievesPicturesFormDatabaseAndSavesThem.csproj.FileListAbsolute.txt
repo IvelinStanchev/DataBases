@@ -1,0 +1,2 @@
+D:\Telerik\Homework\DataBases\ADO.NET\ADO.NET\5-SavingImagesInTheFil\bin\Debug\5-SavingImagesInTheFil.exe.config
+D:\Telerik\Homework\DataBases\ADO.NET\ADO.NET\5-RetrievesPicturesFormDatabaseAndSavesThem\bin\Debug\5-SavingImagesInTheFil.exe.config

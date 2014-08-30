@@ -1,0 +1,1 @@
+D:\Telerik\Homework\DataBases\ADO.NET\ADO.NET\1-NortwindNumberOfRowsInCategoryTable\bin\Debug\1-NortwindNumberOfRowsInCategoryTable.exe.config

@@ -1,0 +1,1 @@
+D:\Telerik\Homework\DataBases\ADO.NET\ADO.NET\8-ReadsStringFromConsoleAndGetsTheValueFromProducts\bin\Debug\8-ReadsStringFromConsoleAndGetsTheValueFromProducts.exe.config
