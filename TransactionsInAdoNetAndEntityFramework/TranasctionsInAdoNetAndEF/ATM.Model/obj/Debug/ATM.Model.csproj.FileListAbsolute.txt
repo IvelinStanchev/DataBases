@@ -1,0 +1,10 @@
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\ATM.Model\bin\Debug\ATM.Model.dll.config
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\ATM.Model\bin\Debug\ATM.Model.dll
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\ATM.Model\bin\Debug\ATM.Model.pdb
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\ATM.Model\bin\Debug\EntityFramework.dll
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\ATM.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\ATM.Model\bin\Debug\EntityFramework.xml
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\ATM.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\ATM.Model\obj\Debug\ATM.Model.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\ATM.Model\obj\Debug\ATM.Model.dll
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\ATM.Model\obj\Debug\ATM.Model.pdb

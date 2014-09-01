@@ -1,0 +1,12 @@
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\2-3-MoneyTransactions\bin\Debug\2-MoneyTransactions.exe.config
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\2-3-MoneyTransactions\obj\Debug\2-MoneyTransactions.exe
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\2-3-MoneyTransactions\obj\Debug\2-MoneyTransactions.pdb
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\2-3-MoneyTransactions\bin\Debug\2-MoneyTransactions.exe
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\2-3-MoneyTransactions\bin\Debug\2-MoneyTransactions.pdb
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\2-3-MoneyTransactions\bin\Debug\ATM.Model.dll
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\2-3-MoneyTransactions\bin\Debug\EntityFramework.dll
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\2-3-MoneyTransactions\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\2-3-MoneyTransactions\bin\Debug\ATM.Model.pdb
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\2-3-MoneyTransactions\bin\Debug\EntityFramework.xml
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\2-3-MoneyTransactions\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik\Homework\DataBases\TransactionsInAdoNetAndEntityFramework\TranasctionsInAdoNetAndEF\2-3-MoneyTransactions\obj\Debug\2-3-MoneyTransactions.csprojResolveAssemblyReference.cache
