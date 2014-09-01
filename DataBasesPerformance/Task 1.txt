@@ -1,0 +1,49 @@
+CREATE TABLE Texts(
+  TextId int NOT NULL PRIMARY KEY IDENTITY,
+  PostedDate datetime,
+  TextDescription nvarchar(300)
+)
+
+--
+
+INSERT INTO Texts(PostedDate, TextDescription) VALUES (getdate(), 'Nikolay Kostov')
+INSERT INTO Texts(PostedDate, TextDescription) VALUES (getdate(), 'Doncho Minkov')
+INSERT INTO Texts(PostedDate, TextDescription) VALUES (getdate(), 'Ivaylo Kenov')
+INSERT INTO Texts(PostedDate, TextDescription) VALUES (getdate(), 'Evlogi Hristov')
+INSERT INTO Texts(PostedDate, TextDescription) VALUES (getdate(), 'Bay Ivan')
+INSERT INTO Texts(PostedDate, TextDescription) VALUES (getdate(), 'Kaka Penka')
+INSERT INTO Texts(PostedDate, TextDescription) VALUES (getdate(), 'Bate Goyko')
+INSERT INTO Texts(PostedDate, TextDescription) VALUES (getdate(), 'Bash Maistora')
+INSERT INTO Texts(PostedDate, TextDescription) VALUES (getdate(), 'Lelya Ginka')
+INSERT INTO Texts(PostedDate, TextDescription) VALUES (getdate(), 'Chicho Mitko')
+
+--
+
+SET NOCOUNT ON
+DECLARE @RowCount int = 10000
+WHILE @RowCount > 0
+BEGIN
+  DECLARE @Text nvarchar(100) = 
+    'Text ' + CONVERT(nvarchar(100), @RowCount) + ': ' + CONVERT(nvarchar(100), newid())
+  DECLARE @Date datetime = DATEADD(month, CONVERT(varbinary, newid()) % (50 * 12), getdate())
+  INSERT INTO Texts(PostedDate, TextDescription)
+  VALUES(@Date, @Text)
+  SET @RowCount = @RowCount - 1
+END
+SET NOCOUNT OFF
+
+--
+
+WHILE (SELECT COUNT(*) FROM Texts) < 10000000
+BEGIN
+  INSERT INTO Texts(PostedDate, TextDescription)
+  SELECT PostedDate, TextDescription FROM Texts
+END
+
+--
+
+CHECKPOINT; DBCC DROPCLEANBUFFERS; -- Empty the SQL Server cache
+
+SELECT TextId FROM Texts
+WHERE PostedDate > '1-Jan-2014' AND PostedDate < '31-Dec-2014'
+

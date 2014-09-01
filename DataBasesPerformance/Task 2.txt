@@ -1,0 +1,6 @@
+CHECKPOINT; DBCC DROPCLEANBUFFERS; -- Empty the SQL Server cache
+
+CREATE INDEX IDX_Texts_PostedDate ON Texts(PostedDate)
+
+SELECT TextId FROM Texts
+WHERE PostedDate > '1-Jan-2014' AND PostedDate < '31-Dec-2014'

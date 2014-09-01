@@ -1,0 +1,50 @@
+CREATE DATABASE PartitioningDB;
+
+USE PartitioningDB;
+
+--
+
+CREATE TABLE Texts(
+  TextId int NOT NULL AUTO_INCREMENT,
+  PostedDate datetime,
+  TextDescription nvarchar(300)
+  PRIMARY KEY (TextId, PostedId)
+) PARTITION BY RANGE(YEAR(PostedDate)) (
+    PARTITION p0 VALUES LESS THAN (1990),
+    PARTITION p1 VALUES LESS THAN (1995),
+    PARTITION p2 VALUES LESS THAN (2000),
+    PARTITION p3 VALUES LESS THAN (2005),
+    PARTITION p4 VALUES LESS THAN MAXVALUE
+);
+
+--
+
+DELIMITER $$
+CREATE PROCEDURE PopulateDB()
+BEGIN
+	DECLARE counter INT DEFAULT 0;
+	DECLARE minDate datetime;
+	DECLARE maxDate datetime;
+	SET minDate = '1980-01-01 00:00:00';
+	SET maxDate = '2014-01-01 00:00:00';
+	START TRANSACTION;
+	WHILE counter < 1000000 DO
+		INSERT INTO Texts(PostedDate, TextDescription)
+		VALUES(TIMESTAMPADD(SECOND, FLOOR(RAND() * TIMESTAMPDIFF(SECOND, minDate, maxDate)), minDate), 
+				CONCAT('Text', CAST(counter as CHAR)));
+		SET counter = counter + 1;
+	END WHILE;
+	COMMIT;
+END $$
+
+CALL PopulateDB()
+
+--
+
+SELECT * FROM Texts PARTITION (p0)
+
+SELECT * FROM Texts
+WHERE PostedDate < '1995-01-01'
+
+SELECT * FROM Texts PARTITION(p0)
+WHERE PostedDate < '1990-01-01'
