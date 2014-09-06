@@ -1,0 +1,6 @@
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\9-TraverseDirectories\bin\Debug\9-TraverseDirectories.exe.config
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\9-TraverseDirectories\bin\Debug\9-TraverseDirectories.exe
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\9-TraverseDirectories\bin\Debug\9-TraverseDirectories.pdb
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\9-TraverseDirectories\obj\Debug\9-TraverseDirectories.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\9-TraverseDirectories\obj\Debug\9-TraverseDirectories.exe
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\9-TraverseDirectories\obj\Debug\9-TraverseDirectories.pdb

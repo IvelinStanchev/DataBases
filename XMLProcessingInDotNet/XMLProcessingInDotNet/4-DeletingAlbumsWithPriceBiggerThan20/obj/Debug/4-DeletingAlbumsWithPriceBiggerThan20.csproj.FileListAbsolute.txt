@@ -1,0 +1,5 @@
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\4-DeletingAlbumsWithPriceBiggerThan20\bin\Debug\4-DeletingAlbumsWithPriceBiggerThan20.exe.config
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\4-DeletingAlbumsWithPriceBiggerThan20\bin\Debug\4-DeletingAlbumsWithPriceBiggerThan20.exe
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\4-DeletingAlbumsWithPriceBiggerThan20\bin\Debug\4-DeletingAlbumsWithPriceBiggerThan20.pdb
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\4-DeletingAlbumsWithPriceBiggerThan20\obj\Debug\4-DeletingAlbumsWithPriceBiggerThan20.exe
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\4-DeletingAlbumsWithPriceBiggerThan20\obj\Debug\4-DeletingAlbumsWithPriceBiggerThan20.pdb

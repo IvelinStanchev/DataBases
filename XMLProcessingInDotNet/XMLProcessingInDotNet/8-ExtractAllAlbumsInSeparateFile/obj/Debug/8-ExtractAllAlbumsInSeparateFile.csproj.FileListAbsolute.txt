@@ -1,0 +1,6 @@
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\8-ExtractAllAlbumsInSeparateFile\bin\Debug\8-ExtractAllAlbumsInSeparateFile.exe.config
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\8-ExtractAllAlbumsInSeparateFile\bin\Debug\8-ExtractAllAlbumsInSeparateFile.exe
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\8-ExtractAllAlbumsInSeparateFile\bin\Debug\8-ExtractAllAlbumsInSeparateFile.pdb
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\8-ExtractAllAlbumsInSeparateFile\obj\Debug\8-ExtractAllAlbumsInSeparateFile.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\8-ExtractAllAlbumsInSeparateFile\obj\Debug\8-ExtractAllAlbumsInSeparateFile.exe
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\8-ExtractAllAlbumsInSeparateFile\obj\Debug\8-ExtractAllAlbumsInSeparateFile.pdb

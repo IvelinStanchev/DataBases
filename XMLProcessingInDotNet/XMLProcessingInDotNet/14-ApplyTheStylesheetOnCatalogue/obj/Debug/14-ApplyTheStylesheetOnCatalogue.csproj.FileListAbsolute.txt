@@ -1,0 +1,5 @@
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\14-ApplyTheStylesheetOnCatalogue\bin\Debug\14-ApplyTheStylesheetOnCatalogue.exe.config
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\14-ApplyTheStylesheetOnCatalogue\bin\Debug\14-ApplyTheStylesheetOnCatalogue.exe
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\14-ApplyTheStylesheetOnCatalogue\bin\Debug\14-ApplyTheStylesheetOnCatalogue.pdb
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\14-ApplyTheStylesheetOnCatalogue\obj\Debug\14-ApplyTheStylesheetOnCatalogue.exe
+D:\Telerik\Homework\DataBases\XMLProcessingInDotNet\XMLProcessingInDotNet\14-ApplyTheStylesheetOnCatalogue\obj\Debug\14-ApplyTheStylesheetOnCatalogue.pdb
